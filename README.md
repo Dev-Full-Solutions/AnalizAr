@@ -49,7 +49,7 @@ En la aplicación móvil desarrollaremos las siguientes funcionalidades:
 
 ## Wiki
 Visite nuestra Wiki para acceder a la información detallada y actualizada.
-(Enlace a la Wiki: Pendiente)
+(Enlace de acceso: https://github.com/Dev-Full-Solutions/AnalizAr/wiki)
 
 ## IEEE830
 (Enlace al documento: Pendiente)
