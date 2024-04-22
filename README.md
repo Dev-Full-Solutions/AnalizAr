@@ -52,7 +52,7 @@ Visite nuestra Wiki para acceder a la información detallada y actualizada.
 (Enlace de acceso: https://github.com/Dev-Full-Solutions/AnalizAr/wiki)
 
 ## IEEE830
-(Enlace al documento: Pendiente)
+(Enlace al documento: https://docs.google.com/document/d/1Ga92X28Lk8yFY-5kvF41e6qr4E9wJUWVz1JcKrOY8rg/edit)
 
 ## Testing
 Enlace a la carpeta de Testing en el Drive del proyecto: 
