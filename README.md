@@ -45,7 +45,7 @@ En la aplicación móvil desarrollaremos las siguientes funcionalidades:
 (Enlace de acceso: https://drive.google.com/drive/folders/1CIp1PRNUf7VTK9WXjWleznPwEPEAIURV?usp=sharing)
 
 ## Tablero de Kanban
-(Enlace de acceso: Pendiente)
+(Enlace de acceso: (https://github.com/orgs/Dev-Full-Solutions/projects/3))
 
 ## Wiki
 Visite nuestra Wiki para acceder a la información detallada y actualizada.
