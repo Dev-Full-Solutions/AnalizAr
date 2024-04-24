@@ -57,6 +57,9 @@ Visite nuestra Wiki para acceder a la información detallada y actualizada.
 ## Testing
 Enlace a la carpeta de Testing en el Drive del proyecto: 
 - https://drive.google.com/drive/folders/1irmeZ8eQmw-jOxz61pU6gfUcnMRRgIhF?usp=sharing
+ 
+Área de testing en la Wiki:
+- https://github.com/Dev-Full-Solutions/AnalizAr/wiki/Testing
   
 ## Demo del producto
 (Pendiente)
