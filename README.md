@@ -10,23 +10,23 @@ Gracias a los avances tecnológicos de la industria de TI hemos desarrollado un 
 
 ## Objetivos
 Optimizar nuestra aplicación web (SPA) para cumplir con los siguientes objetivos:
-- Objetivo 1.
-- Objetivo 2.
+- Los usuarios pueden descargar la app móvil desde la web, de manera de permitir el uso en ambas plataformas.
+- Los usuarios con discapacidad visual pueden utilizar la aplicación web sin problemas
 - Objetivo 3.
 
 Optimizar nuestra aplicación móvil para cumplir con los siguientes objetivos:
-- Objetivo 1.
+- Objetivo 1
 - Objetivo 2.
 - Objetivo 3.
 
 ## Funcionalidades
 En la aplicación web desarrollaremos las siguientes funcionalidades:
-- Funcionalidad 1
-- Funcionalidad 2
-- Funcionalidad 3
+- Cambios en colores, contrastes, tamaño de letras para garantizar la accesibilidad para personas con visibilidad reducida.
+- Incorporar un botón para la descarga de la apk de nuestra aplicación móvil
+- Autenticación de usuarios con Firebase
 
 En la aplicación móvil desarrollaremos las siguientes funcionalidades:
-- Funcionalidad 1
+- Enlace a la aplicación web
 - Funcionalidad 2
 - Funcionalidad 3
 
