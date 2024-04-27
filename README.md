@@ -61,5 +61,9 @@ Enlace a la carpeta de Testing en el Drive del proyecto:
 Área de testing en la Wiki:
 - https://github.com/Dev-Full-Solutions/AnalizAr/wiki/Testing
   
+- Informe de Testeo Básico de SPA con Selenium
+
+Enlace a la prueba: https://docs.google.com/document/d/1oH5wzu5-Jm6mfFr75zaDxDnjeLCIjuVI/edit?usp=sharing&ouid=115519544386003290872&rtpof=true&sd=true
+  
 ## Demo del producto
 (Pendiente)
