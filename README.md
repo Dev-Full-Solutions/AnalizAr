@@ -12,7 +12,7 @@ Gracias a los avances tecnológicos de la industria de TI hemos desarrollado un 
 Optimizar nuestra aplicación web (SPA) para cumplir con los siguientes objetivos:
 - Los usuarios pueden descargar la app móvil desde la web, de manera de permitir el uso en ambas plataformas.
 - Los usuarios con discapacidad visual pueden utilizar la aplicación web sin problemas
-- Objetivo 3.
+- Mayor seguridad en el inicio de sesión de nuestros usuarios
 
 Optimizar nuestra aplicación móvil para cumplir con los siguientes objetivos:
 - Objetivo 1
