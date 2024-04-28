@@ -10,23 +10,23 @@ Gracias a los avances tecnológicos de la industria de TI hemos desarrollado un 
 
 ## Objetivos
 Optimizar nuestra aplicación web (SPA) para cumplir con los siguientes objetivos:
-- Objetivo 1.
-- Objetivo 2.
-- Objetivo 3.
+- Los usuarios pueden descargar la app móvil desde la web, de manera de permitir el uso en ambas plataformas.
+- Los usuarios con discapacidad visual pueden utilizar la aplicación web sin problemas
+- Mayor seguridad en el inicio de sesión de nuestros usuarios
 
 Optimizar nuestra aplicación móvil para cumplir con los siguientes objetivos:
-- Objetivo 1.
+- Objetivo 1
 - Objetivo 2.
 - Objetivo 3.
 
 ## Funcionalidades
 En la aplicación web desarrollaremos las siguientes funcionalidades:
-- Funcionalidad 1
-- Funcionalidad 2
-- Funcionalidad 3
+- Cambios en colores, contrastes, tamaño de letras para garantizar la accesibilidad para personas con visibilidad reducida.
+- Incorporar un botón para la descarga de la apk de nuestra aplicación móvil
+- Autenticación de usuarios con Firebase
 
 En la aplicación móvil desarrollaremos las siguientes funcionalidades:
-- Funcionalidad 1
+- Enlace a la aplicación web
 - Funcionalidad 2
 - Funcionalidad 3
 
@@ -45,7 +45,7 @@ En la aplicación móvil desarrollaremos las siguientes funcionalidades:
 (Enlace de acceso: https://drive.google.com/drive/folders/1CIp1PRNUf7VTK9WXjWleznPwEPEAIURV?usp=sharing)
 
 ## Tablero de Kanban
-(Enlace de acceso: (https://github.com/orgs/Dev-Full-Solutions/projects/3))
+(Enlace de acceso: https://github.com/orgs/Dev-Full-Solutions/projects/3)
 
 ## Wiki
 Visite nuestra Wiki para acceder a la información detallada y actualizada.
@@ -60,6 +60,10 @@ Enlace a la carpeta de Testing en el Drive del proyecto:
  
 Área de testing en la Wiki:
 - https://github.com/Dev-Full-Solutions/AnalizAr/wiki/Testing
+  
+- Informe de Testeo Básico de SPA con Selenium
+
+Enlace a la prueba: https://docs.google.com/document/d/1oH5wzu5-Jm6mfFr75zaDxDnjeLCIjuVI/edit?usp=sharing&ouid=115519544386003290872&rtpof=true&sd=true
   
 ## Demo del producto
 (Pendiente)
