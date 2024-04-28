@@ -10,25 +10,27 @@ Gracias a los avances tecnológicos de la industria de TI hemos desarrollado un 
 
 ## Objetivos
 Optimizar nuestra aplicación web (SPA) para cumplir con los siguientes objetivos:
-- Los usuarios pueden descargar la app móvil desde la web, de manera de permitir el uso en ambas plataformas.
-- Los usuarios con discapacidad visual pueden utilizar la aplicación web sin problemas
-- Mayor seguridad en el inicio de sesión de nuestros usuarios
+- Que los usuarios pueden descargar la app móvil desde la web, de manera de permitir el uso en ambas plataformas.
+- Que los usuarios con discapacidad visual pueden utilizar la aplicación web sin problemas.
+- Mayor seguridad en el inicio de sesión de nuestros usuarios.
+- Ampliar el espectro de usuarios con problemas de accesibilidad que puedan hacer uso de sus beneficios.
 
 Optimizar nuestra aplicación móvil para cumplir con los siguientes objetivos:
-- Objetivo 1
-- Objetivo 2.
-- Objetivo 3.
+- Que los usuarios puedan acceder a la aplicación web desde la aplicación móvil para acceder al e-commerce.
+- Ampliar el espectro de usuarios con problemas de accesibilidad que puedan hacer uso de sus beneficios.
+- Que los usuarios tengan una mejor experiencia de usuario mediante la optimización de las funcionalidades.
 
 ## Funcionalidades
 En la aplicación web desarrollaremos las siguientes funcionalidades:
+- Funcionalidad de accesibilidad para personas con problemas de visión según el estandar WCAG 2.0.
 - Cambios en colores, contrastes, tamaño de letras para garantizar la accesibilidad para personas con visibilidad reducida.
 - Incorporar un botón para la descarga de la apk de nuestra aplicación móvil
 - Autenticación de usuarios con Firebase
 
 En la aplicación móvil desarrollaremos las siguientes funcionalidades:
-- Enlace a la aplicación web
-- Funcionalidad 2
-- Funcionalidad 3
+- Ampliar la funcionalidad de accesibilidad para personas con problemas de audición según el estandar WCAG 2.0.
+- Incorporar un enlace para que el usuario pueda acceder a nuestra aplicación web.
+- Mejorar la navegabilidad entre las activities y añadir la activity testimonios de usuarios.
 
 ## Stack Tecnológico
 - Angular
