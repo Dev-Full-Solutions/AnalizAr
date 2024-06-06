@@ -70,4 +70,4 @@ Enlace a la carpeta de Testing en el Drive del proyecto:
 Enlace a la prueba: https://docs.google.com/document/d/1oH5wzu5-Jm6mfFr75zaDxDnjeLCIjuVI/edit?usp=sharing&ouid=115519544386003290872&rtpof=true&sd=true
   
 ## Elevator Pitch
-[Pendiente](https://drive.google.com/file/d/154xAs-mDqZXqbcoiK9BbzdLn20BXPoRZ/view?usp=drive_link)
+(https://drive.google.com/file/d/154xAs-mDqZXqbcoiK9BbzdLn20BXPoRZ/view?usp=drive_link)
