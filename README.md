@@ -68,6 +68,9 @@ Enlace a la carpeta de Testing en el Drive del proyecto:
 - Informe de Testeo Básico de SPA con Selenium
 
 Enlace a la prueba: https://docs.google.com/document/d/1oH5wzu5-Jm6mfFr75zaDxDnjeLCIjuVI/edit?usp=sharing&ouid=115519544386003290872&rtpof=true&sd=true
+
+## Review Sprint 2 con enlaces para facilitar corrección
+(https://docs.google.com/document/d/10EmPvIuH41DHJev9H2eR-Pzd_kRxI70Y/edit?usp=sharing&ouid=115519544386003290872&rtpof=true&sd=true)
   
 ## Elevator Pitch
 (https://drive.google.com/file/d/154xAs-mDqZXqbcoiK9BbzdLn20BXPoRZ/view?usp=drive_link)
