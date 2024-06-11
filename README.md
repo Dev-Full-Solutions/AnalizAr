@@ -72,5 +72,11 @@ Enlace a la prueba: https://docs.google.com/document/d/1oH5wzu5-Jm6mfFr75zaDxDnj
 ## Review Sprint 2 con enlaces para facilitar corrección
 (https://docs.google.com/document/d/10EmPvIuH41DHJev9H2eR-Pzd_kRxI70Y/edit?usp=sharing&ouid=115519544386003290872&rtpof=true&sd=true)
   
+## Release Aplicación Web
+(https://github.com/Dev-Full-Solutions/AnalizArWeb/releases/tag/v1.0.0)
+
+## Release Aplicación Móvil
+(https://github.com/Dev-Full-Solutions/AnalizArApp/releases/tag/v1.0.0)
+
 ## Elevator Pitch
 (https://drive.google.com/file/d/154xAs-mDqZXqbcoiK9BbzdLn20BXPoRZ/view?usp=drive_link)
